@@ -1,6 +1,6 @@
 # [UK SIS](http://ci.uky.edu/sis/) ICT 302: Content Management Systems (Fall 2019)
 
-This syllabus may be updated prior to and throughout the semester by Dr. Greenhalgh and ICT 302 students. Please use [this link](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/syllabus/ICT_302_Greenhalgh_syllabus.md) to access the most up-to-date version.
+This syllabus can be updated prior to and throughout the semester by Dr. Greenhalgh and ICT 302 students. Please use [this link](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/syllabus/ICT_302_Greenhalgh_syllabus.md) to access the most up-to-date version.
 
 # Instructor Information
 
